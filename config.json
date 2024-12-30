@@ -1,14 +1,14 @@
 {
     "captcha_keys": {
-        "capsolver": "",
-        "capmonster": ""
+        "capsolver": "CAP-13140B57C35CB750B6095C1BF2E175318E1D490E68C94DEF4C6EF30C79E1B748",
+        "capmonster": "ea019d88b75d049485b7eb9f3466a704"
     },
 
     "custom_settings": {
         "mail_domain": "",
         "password": "",
         "username": "",
-        "invite_code": "",
+        "invite_code": "discord.gg/seedmc",
         "threads": 100
     }
 }
